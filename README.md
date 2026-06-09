@@ -1,6 +1,6 @@
 # ⚽ Football Analysis System — AI + Computer Vision
 
->Project is inspired by a previous competion from Kaggle hosted by DFL Bundesliga Datashoot ,were the football images and videos were uploaded by official Bundesliga League . Mianly this project focusses on detecting players, track movement, measure speed & distance, and analyse ball possession — all from a raw match video. 
+>Project is inspired by a previous competition from Kaggle hosted by DFL Bundesliga Datashoot ,were the football images and videos were uploaded by official Bundesliga League . Mianly this project focusses on detecting players, track movement, measure speed & distance, and analyse ball possession — all from a raw match video. 
 
 ![Football Analysis Demo](output_videos/screenshot.png)
 
