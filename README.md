@@ -1,4 +1,4 @@
-# ⚽ Football Analysis System — AI + Computer Vision
+#  Football Analysis System — AI + Computer Vision
 
 >Project is inspired by a previous competition from Kaggle hosted by DFL Bundesliga Datashoot ,were the football images and videos were uploaded by official Bundesliga League . Mianly this project focusses on detecting players, track movement, measure speed & distance, and analyse ball possession — all from a raw match video. 
 
@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 What This Does
+##  What This Does
 
 This project builds a full football analysis pipeline using machine learning and computer vision. Feed it a match video and it outputs an annotated video with:
 
@@ -20,7 +20,7 @@ This project builds a full football analysis pipeline using machine learning and
 
 ---
 
-## 🧠 Tech Stack
+##  Tech Stack
 
 | Component | Technology |
 |---|---|
@@ -34,7 +34,7 @@ This project builds a full football analysis pipeline using machine learning and
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 football_analysis/
@@ -55,7 +55,7 @@ football_analysis/
 
 ---
 
-## ⚙️ Setup
+##  Setup
 
 ### Prerequisites
 
@@ -102,7 +102,7 @@ Output video will be saved to `output_videos/output_video.avi`.
 
 ---
 
-## 🔍 How It Works
+##  How It Works
 
 ### Pipeline Overview
 
@@ -141,7 +141,7 @@ Annotated Output Video
 
 ---
 
-## 📊 Output Annotations
+##  Output Annotations
 
 Each frame in the output video shows:
 
@@ -155,7 +155,7 @@ Each frame in the output video shows:
 
 ---
 
-## 🏋️ Training Your Own Model
+##  Training Your Own Model
 
 A training notebook is included at `training/football_training_yolo_v5.ipynb`.
 
@@ -165,7 +165,7 @@ The fine-tuned model detects four classes: `player`, `goalkeeper`, `referee`, `b
 
 ---
 
-## 📦 Requirements
+##  Requirements
 
 ```
 ultralytics>=8.0.0
@@ -179,7 +179,7 @@ scikit-learn>=1.3.0
 
 ---
 
-## 🙏 Credits
+##  Credits
 
 - Tutorial : [DFL Football Analysis](https://youtu.be/neBZ6huolkg?si=rypJ8ok9bU5V-cuS)
 - Dataset: [DFL Bundesliga Data Shootout (Kaggle)](https://www.kaggle.com/competitions/dfl-bundesliga-data-shootout)
@@ -187,6 +187,6 @@ scikit-learn>=1.3.0
 
 ---
 
-## 📄 License
+##  License
 
 This project is for educational purposes. Dataset and video used from kaggle dataset from bundesliga
